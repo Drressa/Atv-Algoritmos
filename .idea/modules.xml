@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AssuntosdDeAlgoritmos.iml" filepath="$PROJECT_DIR$/AssuntosdDeAlgoritmos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algoritmos/VetoresRecursaoModularisacao/VetoresRecursaoModularisacao.iml" filepath="$PROJECT_DIR$/algoritmos/VetoresRecursaoModularisacao/VetoresRecursaoModularisacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algoritmos/algoritmos.iml" filepath="$PROJECT_DIR$/algoritmos/algoritmos.iml" />
+    </modules>
+  </component>
+</project>
