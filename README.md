@@ -2,7 +2,16 @@
 
 ---
 
-Repositório destinado ao estudo da disciplina de algoritmos do curso de BSI.  
+| Assuntos:  |           Assuntos: |
+|-----------:|---------------------|
+| If / Else  |            Do While |
+| Case       |               Vetor |
+| While      |            Recursão |
+| For        |       Modularização |
+
+---
+
+Repositório destinado a estudo da disciplina de algoritmos do curso de BSI.  
 
 ---
 
