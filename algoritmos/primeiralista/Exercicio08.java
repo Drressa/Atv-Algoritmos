@@ -1,12 +1,9 @@
-
-
 import javax.swing.*;
 
 public class Exercicio08 {
+
     public static void main(String[] args) {
-        /*
-            Crie um algoritmo que mostre a  diferença entre 2 números inteiros negativos;
-         */
+        /*Crie um algoritmo que mostre a  diferença entre 2 números inteiros negativos;*/
 
         int num1, num2, diferenca;
         String stNum1, stNum2;
