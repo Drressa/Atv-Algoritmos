@@ -1,6 +1,7 @@
-
 import  javax.swing.JOptionPane;
+
 public class Exercicio01B {
+
     public static void main(String[] args) {
 
     // Área retângulo de comprimento 4 e altura 2
