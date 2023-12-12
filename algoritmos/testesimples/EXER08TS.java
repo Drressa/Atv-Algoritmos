@@ -1,7 +1,7 @@
-
 import  javax.swing.JOptionPane;
 
 public class EXER08TS {
+
     public static void main(String[] args) {
 
         int numX, numY;

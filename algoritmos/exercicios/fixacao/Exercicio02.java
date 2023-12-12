@@ -1,7 +1,7 @@
-
 import  javax.swing.JOptionPane;
 
 public class Exercicio02 {
+
     public static void main(String[] args) {
 
         /*2. Ler dois número interos e escrever o resto da divisão

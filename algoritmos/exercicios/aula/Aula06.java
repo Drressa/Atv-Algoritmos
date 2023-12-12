@@ -1,6 +1,7 @@
-
 import javax.swing.JOptionPane;
+
 public class Aula06 {
+
     public static void main(String[] args) {
         int x, a, b, c;
         double ma, mp;

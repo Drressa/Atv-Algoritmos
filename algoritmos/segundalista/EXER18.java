@@ -1,15 +1,12 @@
-
 import javax.swing.JOptionPane;
-public class EXER18 {
-    public static void main(String[] args) {
 
-        /*
-            18. A empresa Hipotheticus paga R$10.00 por hora normal trabalhada, e R$15.00 por hora extra.
+public class EXER18 {
+    
+    public static void main(String[] args) {
+        /*18. A empresa Hipotheticus paga R$10.00 por hora normal trabalhada, e R$15.00 por hora extra.
              Faça um algoritmo para calcular e imprimir o salário bruto e o salário líquido de um determinado
              funcionário. Considere que o salário líquido é igual ao salário bruto descontando 10% de impostos.
-
-             Complemento: Jornada de trabalho de 40 horas semanais.
-         */
+             Complemento: Jornada de trabalho de 40 horas semanais.*/
 
         //Declarar variáveis
         double horasTrabalhadas, salarioBruto, salarioLiquido, horaExtra, valorExtra;

@@ -1,14 +1,12 @@
-
 import javax.swing.JOptionPane;
 
 public class EXER21 {
+
     public static void main(String[] args) {
 
-        /*
-           21. A fábrica de refrigerantes Meia-Cola vende seu produto em três formatos: lata de 350ml,
+        /* 21. A fábrica de refrigerantes Meia-Cola vende seu produto em três formatos: lata de 350ml,
            garrafa de 600ml e garrafa de 2 litros. Se um comerciantes compra uma de terminada quantidade
-           de cada formato, faça um algoritmo calcular quantos litros de refrigerante ele comprou.
-         */
+           de cada formato, faça um algoritmo calcular quantos litros de refrigerante ele comprou.*/
 
         //declarar variáveis
         int produto,qtdProduto;
@@ -57,8 +55,7 @@ public class EXER21 {
 
                 //calculo volume da garrafa (2L)
                 volGarrafa1 = qtdProduto * 2.0;
-                JOptionPane.showMessageDialog(null,"Comprou: "+qtdProduto+" garrafas (2L),"+"\n"
-                        +volGarrafa1+"L de refrigerante.");
+                JOptionPane.showMessageDialog(null,"Comprou: "+qtdProduto+" garrafas (2L),"+"\n"+volGarrafa1+"L de refrigerante.");
                 break;
 
             default: // digitou valor inexistente das alternativas (produto <= 0 && produto > 3)
@@ -67,7 +64,5 @@ public class EXER21 {
                 break;
 
         }
-
-
     }
 }

@@ -1,7 +1,8 @@
-
 import javax.swing.JOptionPane;
 import java.io.IOException;
+
 public class EXER06TS {
+
     public static void main(String[] args) throws IOException {
 
         String gender;

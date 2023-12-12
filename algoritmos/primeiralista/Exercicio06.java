@@ -1,12 +1,11 @@
-
 import javax.swing.JOptionPane;
 import java.lang.Math;
+
 public class Exercicio06 {
+
     public static void main(String[] args) {
-        /*
-            6. Crie um algoritmo que calcule as raízes quadradas de uma equação
-            do segundo grau.
-         */
+        /* 6. Crie um algoritmo que calcule as raízes quadradas de uma equação
+            do segundo grau.*/
 
         double a, b, c, delta, x1, x2;
         String stA, stB, stC;

@@ -1,9 +1,8 @@
-
 import javax.swing.JOptionPane;
 
 public class Exercicio06 {
-    public static void main(String[] args) {
 
+    public static void main(String[] args) {
         // 6. Ler o salário de um funcionário e imprimí-lo com acréscimo de 15%;
 
         double salario, acrescimo, salarioReajustado;

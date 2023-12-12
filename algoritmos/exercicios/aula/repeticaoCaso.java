@@ -1,6 +1,7 @@
-
 import javax.swing.JOptionPane;
+    
 public class repeticaoCaso {
+
     public static void main(String[] args) {
 
         int opcao;
@@ -22,17 +23,13 @@ public class repeticaoCaso {
                 break;
             default:
                 JOptionPane.showMessageDialog(null,"Inválido");
-                break;
-
-         */
+                break; */
 
          /*   switch (opcao) {
             case 1 -> JOptionPane.showMessageDialog(null, "Bom dia!");
             case 2 -> JOptionPane.showMessageDialog(null, "Boa tarde!");
             case 3 -> JOptionPane.showMessageDialog(null, "Boa noite!");
-            default -> JOptionPane.showMessageDialog(null, "Inválido");
-
-          */
+            default -> JOptionPane.showMessageDialog(null, "Inválido"); */
 
             if(opcao == 1)
             {

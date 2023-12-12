@@ -1,12 +1,10 @@
-
 import javax.swing.JOptionPane;
 
 public class EXER04TS {
+  
     public static void main(String[] args) {
 
-        /*
-        4. Ler um número inteiro e imprimir se ele é par e divisível por 3.
-        */
+        //4. Ler um número inteiro e imprimir se ele é par e divisível por 3.
 
         int num;
         String sNum;

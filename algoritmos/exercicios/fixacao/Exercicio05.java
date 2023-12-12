@@ -1,6 +1,7 @@
-
 import  javax.swing.JOptionPane;
+
 public class Exercicio05 {
+
     public static void main(String[] args) {
         /* Ler um valor em reais e exibir o equivalente em dólares.
         Considere o dólar em 5,00; */

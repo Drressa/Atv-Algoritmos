@@ -1,15 +1,11 @@
-
-
 import javax.swing.JOptionPane;
 
 public class EXER24 {
-    public static void main(String[] args) {
 
-        /*
-            24. Um tonel de refresco é feito com 8 partes de água mineral e 2 partes de sudo de maracujá. Faça
+    public static void main(String[] args) {
+        /* 24. Um tonel de refresco é feito com 8 partes de água mineral e 2 partes de sudo de maracujá. Faça
             um algoritmo para calcular quantos litros de água  e de suco são necessário  para se fazer  X litros
-            de refresco (informados pelo usuário).
-         */
+            de refresco (informados pelo usuário).*/
 
         //declarar variáveis
         int refresco, aguaMineral, sucoMaracuja;
@@ -26,8 +22,7 @@ public class EXER24 {
 
         //saída de dados
         JOptionPane.showMessageDialog(null, "Para fazer" + refresco + " litros de refresco, você precisará de:" + "\n" +
-                "- " + aguaMineral + " litros de água mineral" + "\n" + "- " + sucoMaracuja + " litros de suco de maracujá");
-
+         "- " + aguaMineral + " litros de água mineral" + "\n" + "- " + sucoMaracuja + " litros de suco de maracujá");
 
     }
 }

@@ -1,6 +1,7 @@
-package freire.israel.algoritmos.testesimples;
 import javax.swing.JOptionPane;
+
 public class EXER07TS {
+    
     public static void main(String[] args) {
 
         String vogal;

@@ -1,13 +1,11 @@
-
 import javax.swing.JOptionPane;
+
 public class EXER03TS {
-    public static void main(String[] args){
+  
+	public static void main(String[] args){
 
-        /*
-        Ler um número inteiro e exibir a mensagem " O NÚMERO É MÚLTIPLO DE 7"
-	    ou "O NÚMERO NÃO É MÚLTIPLO DE 7";
-        */
-
+        // Ler um número inteiro e exibir a mensagem " O NÚMERO É MÚLTIPLO DE 7" ou "O NÚMERO NÃO É MÚLTIPLO DE 7";
+       
         int num;
         String sNum;
 
