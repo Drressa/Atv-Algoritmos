@@ -1,6 +1,7 @@
-
 import javax.swing.JOptionPane;
+
 public class Aula06_2 {
+   
     public static void main(String[] args) {
 
         int num1;
