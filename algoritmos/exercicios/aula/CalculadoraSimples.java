@@ -1,15 +1,11 @@
-
 import  javax.swing.JOptionPane;
+
 public class CalculadoraSimples {
+
     public static void main(String[] args) {
 
-        /* Var
-            n1, n2, soma, sub, mul, divisao: real;
-
-            Inicio
-            ler n1;
-            ler n2;
-
+        /* Var n1, n2, soma, sub, mul, divisao: real;
+        Inicio ler n1; ler n2;
             soma <- n1 + n2;
             sub <- n1 - n2;
             mul <- n1 * n2;
