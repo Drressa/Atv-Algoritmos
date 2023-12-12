@@ -1,6 +1,7 @@
-
+import java.lang.Math;
 
 public class Exercicio01E {
+
     public static void main(String[] args) {
         //Área do triângulo retângulo de base 7 e altura 4
         int base, altura, area;
