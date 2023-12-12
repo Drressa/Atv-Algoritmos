@@ -1,6 +1,7 @@
-
 import  javax.swing.JOptionPane;
+
 public class Exercicio01C {
+
     public static void main(String[] args) {
         // Área do trapézio de lado maior 5 e lado menor 3
 
