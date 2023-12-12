@@ -1,11 +1,10 @@
-
 import javax.swing.JOptionPane;
+
 public class Exercicio05 {
+
     public static void main(String[] args) {
-        /*
-            Crie um algoritmo que calcule o preço final de um produto qualquer, que seja igual
-            a precoBruto + impostos + margemLucro.
-         */
+        /* Crie um algoritmo que calcule o preço final de um produto qualquer, que seja igual
+            a precoBruto + impostos + margemLucro.*/
 
         double precoBruto, impostos, margemLucro, precoFinal;
         String stPrecoBruto, stImpostos, stMargemLucro;
