@@ -1,11 +1,11 @@
-
 import javax.swing.JOptionPane;
 import java.lang.Math;
+
 public class Exercicio09 {
+    
     public static void main(String[] args) {
-        /*
-         Crie um algoritmo que a calcule a raiz quadrada de um número interio positivo;
-         */
+        /*Crie um algoritmo que a calcule a raiz quadrada de um número interio positivo; */
+        
         int num,raizQuadrada;
         String stNum;
 
