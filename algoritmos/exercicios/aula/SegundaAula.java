@@ -1,11 +1,10 @@
-
 import javax.swing.JOptionPane;
+
 public class SegundaAula {
+
     public static void main(String[] args) {
 
-        /* Var
-            n1, n2, resultado:inteiro;
-
+        /* Var n1, n2, resultado:inteiro;
             Inicio
             ler n1;
             ler n2;
