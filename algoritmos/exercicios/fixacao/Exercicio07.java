@@ -1,11 +1,10 @@
-
 import javax.swing.JOptionPane;
 
 public class Exercicio07 {
+
     public static void main(String[] args) {
         /* Ler o salário de um funcionário e imprimí-lo com um
-        desconto de INSS de 14%;
-         */
+        desconto de INSS de 14%; */
 
         double salario, desconto, salarioReajustado;
         String stSalario;
