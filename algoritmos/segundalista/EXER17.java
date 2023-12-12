@@ -1,14 +1,12 @@
-
 import javax.swing.JOptionPane;
+
 public class EXER17 {
+
     public static void main(String[] args) {
 
-        /*
-            17. Alguns países medem temperaturas em graus Celcius, e outros em gruas Fahrenheit.
+        /*17. Alguns países medem temperaturas em graus Celcius, e outros em gruas Fahrenheit.
             Faça um algoritmo para ler uma temperatura Celsius e imprimí-la em Fahrenheit (pesquise
-            como fazer este tipo de conversão).
-         */
-
+            como fazer este tipo de conversão).*/
 
         //Declarar variáveis
         double grausCelcius, grausFah;
