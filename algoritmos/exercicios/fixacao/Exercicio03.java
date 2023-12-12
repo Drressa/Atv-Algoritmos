@@ -1,8 +1,8 @@
-
 import  javax.swing.JOptionPane;
 import java.lang.Math;
 
 public class Exercicio03 {
+
     public static void main(String[] args) {
         /* Ler um número inteiro e escrever o valor do seu quadrado e da
         sua raiz quadrada. Obs:utilizar a classe "math" e método "sqrt".
