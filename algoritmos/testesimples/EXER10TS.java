@@ -1,6 +1,7 @@
-
 import javax.swing.JOptionPane;
+
 public class EXER10TS {
+
     public static void main(String[] args) {
 
         double precoBlusaA, precoBlusaB;
