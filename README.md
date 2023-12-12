@@ -2,12 +2,12 @@
 
 ---
 
-| Assuntos:  |           Assuntos: |
-|-----------:|---------------------|
-| If / Else  |            Do While |
-| Case       |               Vetor |
-| While      |            Recursão |
-| For        |       Modularização |
+| Assuntos: |           Assuntos: |
+|----------:|---------------------|
+| If / Else |            Do While |
+|      Case |               Vetor |
+|     While |            Recursão |
+|       For |       Modularização |
 
 ---
 
