@@ -1,6 +1,7 @@
-
 import javax.swing.JOptionPane;
+
 public class Exercicio03 {
+
     public static void main(String[] args) {
         //Crie um algorítmo que calcule um acréscimo do salário família sobre um salário mínimo que equivale a 5%
 
