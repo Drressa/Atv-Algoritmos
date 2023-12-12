@@ -1,6 +1,7 @@
-
 import javax.swing.JOptionPane;
+
 public class Exercicio01A {
+
     public static void main(String[] args) {
         //Calcular a área do quadrado
 
