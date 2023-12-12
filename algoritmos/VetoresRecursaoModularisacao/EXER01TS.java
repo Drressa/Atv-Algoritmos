@@ -1,11 +1,10 @@
-package freire.israel.algoritmos.testesimples;
 import javax.swing.JOptionPane;
+
 public class EXER01TS {
+    
     public static void main(String[] args) {
-        /*
-        1. Entrar com uma distância(km) e o tempo de viagem (horas) de um automóvel, e dizer se a velocidade
-        média fois superior ao limite (110Km/h) ou não.
-         */
+        /* 1. Entrar com uma distância(km) e o tempo de viagem (horas) de um automóvel, e dizer se a velocidade
+        média fois superior ao limite (110Km/h) ou não. */
 
         float distancia, tempo, vMedia;
         String sDistancia, sTempo;
