@@ -11,7 +11,7 @@
 
 ---
 
-Repositório destinado a estudo da disciplina de algoritmos do curso de BSI, mistradas por Francisco Helio de Oliveira  
+Repositório destinado a estudo da disciplina de algoritmos do curso de BSI, aulas mistradas por Francisco Helio de Oliveira  
 
 ---
 
