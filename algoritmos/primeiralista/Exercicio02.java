@@ -1,6 +1,7 @@
-
 import javax.swing.JOptionPane;
+
 public class Exercicio02 {
+
     public static void main(String[] args) {
         //Crie um algoritmo para verficar o cálculo de INSS sobre o salário mínimmo (14%)
 
