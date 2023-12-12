@@ -1,19 +1,16 @@
-
-
 import javax.swing.JOptionPane;
 
 public class EXER30 {
+  
     public static void main(String[] args) {
 
-        /*
-            30. Uma empresa registra uma pontuação para cada funcionário, de acordo com a tabela:
+        /* 30. Uma empresa registra uma pontuação para cada funcionário, de acordo com a tabela:
             Participação em um projeto de grande porte: 10 pontos;
             Participação em um projeto de médio porte: 5 pontos;
             Participação em um projeto de pequeno porte: 2 pontos;
             Tempo de empresa: 2 pontos por ano;
             Faça um algoritmo que leia a quantidade  de projetos em que um funcionáiro atuou,
-            bem como seu tempo de casa, e imprima o total de pontos acumulados.
-         */
+            bem como seu tempo de casa, e imprima o total de pontos acumulados. */
 
         // Declaração de variáveis
         int projetoGrande, projetoMedio, projetoPequeno, totalPontos, tempoEmpresa;
@@ -38,7 +35,6 @@ public class EXER30 {
 
         // Saída de dados
         JOptionPane.showMessageDialog(null, "A pontuação total do funcionário é: " + totalPontos);
-
 
     }
 }
