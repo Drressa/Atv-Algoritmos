@@ -1,11 +1,11 @@
-
 import javax.swing.JOptionPane;
 import  java.lang.Math;
+
 public class Exercicio04 {
+
     public static void main(String[] args) {
         /* Crie um algoritmo que calcule o índice de massa corpóre(IMC) de uma pessoa
-            IMC = peso/altura^2.
-         */
+            IMC = peso/altura^2. */
 
         double peso, altura, imc;
         String sPeso, sAltura;
