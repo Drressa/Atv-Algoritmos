@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class VetorStringS {
+public class VetorString {
 
     public static void main(String[] args) {
         

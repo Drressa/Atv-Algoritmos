@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AssuntosdDeAlgoritmos.iml" filepath="$PROJECT_DIR$/AssuntosdDeAlgoritmos.iml" />
       <module fileurl="file://$PROJECT_DIR$/AtividasDoLivro/AtividasDoLivro.iml" filepath="$PROJECT_DIR$/AtividasDoLivro/AtividasDoLivro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AulasSemestreI/AulasSemestreI.iml" filepath="$PROJECT_DIR$/AulasSemestreI/AulasSemestreI.iml" />
       <module fileurl="file://$PROJECT_DIR$/VetoresRecursaoModularisacao/VetoresRecursaoModularisacao.iml" filepath="$PROJECT_DIR$/VetoresRecursaoModularisacao/VetoresRecursaoModularisacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/algoritmos/Cap 6/quartalista.iml" filepath="$PROJECT_DIR$/algoritmos/Cap 6/quartalista.iml" />
     </modules>
