@@ -1,0 +1,2 @@
+public class Questao2 {
+}
